@@ -3,7 +3,7 @@
 
 #Stopwatch Application
 
-A simple and user-friendly Stopwatch application built using Java Swing for the graphical user interface (GUI). This application allows users to start, stop, reset, and record lap times.
+A simple and user-friendly Stopwatch application built using Java Swing for the graphical user interface (GUI). This application allows users to start, stop, reset.
 
 ##Features
 
